@@ -1,0 +1,56 @@
+C4267 Hallouche, Farid    CS401  Computer Networks I              25 0
+C4262 Hallouche, Farid    CS331  Computer Org & Assembly Language 25 0
+C4266 James, Scott        CIS422 System Analysis & Design Concept 25 0
+C4265 Hansen, John        CS421  Object-Oriented Des & Devel I    25 0
+C4264 Hock, Randy         CIS333 Hardware and Software System     25 0
+C4261 Lee, Tai-Chi        CS316  Data Struc & Algorithm Analysis  25 0
+C4260 James, Scott        CIS311 Windows Prog Using Visual Basic  25 0
+C4263 Bidgoli, Moe        CIS371 Storage Devices & File Manipul   25 0
+S4267 684516865Gumby, Paul          6 N/A
+S4267 375783122Cheeze, Chuck E.     4 CS
+S4267 987452754Bush, George         4 CS
+S4620 298783444Blue, Ben            3 CS
+S4260 987452754Bush, George         4 CS
+S4260 230874256James, Henry         5 CIS
+S4260 657665990Washington, Martha   2 CIS
+W298783444
+S4265 684516865Gumby, Paul          6 N/A
+D4265 375783122Cheeze, Chuck E.
+S4265 987452754Bush, George         4 CS
+S4265 375783122Cheeze, Chuck E.     4 CS
+P4267
+S4263 298783444Blue, Ben            3 CS
+S4263 987452754Bush, George         4 CS
+S4263 230874256James, Henry         5 CIS
+S4263 657665990Washington, Martha   2 CIS
+S4263 230874256James, Henry         5 CIS
+D4263 298783444Blue, Ben
+S4263 451394501Tucker, Linda        2 CIS
+P4263
+S4264 684516865Gumby, Paul          6 N/A
+S4264 375783122Cheeze, Chuck E.     4 CS
+D4264 298783444Blue, Ben
+S4264 987452754Bush, George         4 CS
+S4264 298783444Blue, Ben            3 CS
+P4264
+S4266 230874256James, Henry         5 CIS
+S4266 657665990Washington, Martha   2 CIS
+W987452754
+S4266 451394501Tucker, Linda        2 CIS
+S4266 664510875Wolf, Mary           6 N/A
+P4266
+S4261 372713102Allen, Joe E.        3 CS
+S4261 293773014Olson, Jeff          3 CS
+S4261 383412653Howard, Chris        2 CS
+S4261 250174076Chen, Larry          3 CS
+S4261 664510875Wolf, Mary           6 N/A
+D4261 372713102Allen, Joe E.
+U664510875Carter, Mary
+P4261
+S4262 372713102Allen, Joe E.        3 CS
+S4262 293773014Olson, Jeff          3 CS
+S4262 383412653Howard, Chris        2 CS
+S4262 250174076Chen, Larry          3 CS
+S4262 298783444Blue, Ben            3 CS
+W664510875
+P9999
