@@ -5,9 +5,6 @@
   LinkedList.hpp
 
   Last Update: 12/4/2014
-  v 0.4.6
-
-  Stage: ALPHA
 
   Author:         Matthew Panzner
   
